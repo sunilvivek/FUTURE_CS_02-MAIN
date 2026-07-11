@@ -2,7 +2,7 @@ From: support@microsoft.com
 
 Subject: Password Reset Confirmation
 
-Dear Putta Pavan Kumar Reddy,
+Dear sunil vivek,
 
 Your password was successfully changed on June 22, 2026.
 
