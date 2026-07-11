@@ -24,5 +24,5 @@ DONT'S
 
 4. Do not respond to suspicious emails.
 
-5. Do not trust urgency-based messages immediately.
+5. Do not trust urgency-based message immediately.
 
